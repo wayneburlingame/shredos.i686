@@ -77,7 +77,7 @@ You can of course compile shredos from source but that can take a long time and 
 
 Download shredos for 64 bit processors from [here](https://github.com/PartialVolume/shredos.x86_64/releases/download/v2020.05.008_x86-64_0.30.001/shredos-2020.05.008_x86-64_0.30.001_20210124.img)
 
-Download shredos for 32 bit processors (also runs on 64 bit processors) from [here](https://github.com/PartialVolume/shredos.i686/releases/download/v2020.02.005_i686-0.30.001/shredos-20210106.img)
+Download shredos for 32 bit processors (also runs on 64 bit processors) from [here](https://github.com/PartialVolume/shredos.i686/releases/download/v2020.02.008_i686-0.30.001/shredos-2020.05.008_i686_0.30.001_20210127.img)
 
 #### Linux (and MAC) users
 
