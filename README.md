@@ -10,7 +10,7 @@
 		</p>
 </p>
 
-# ShredOS i686
+# ShredOS i686 - Disk Eraser
 
 ## For all Intel and compatible 32 bit processors (should also run on most 64bit systems)
 
